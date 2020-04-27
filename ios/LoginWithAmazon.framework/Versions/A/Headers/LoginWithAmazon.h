@@ -12,9 +12,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import "AIMobileLib.h"
-#import "AIAuthenticationDelegate.h"
-#import "AIError.h"
+#import "AMZNLWAMobileLib.h"
+#import "AMZNLWAAuthenticationDelegate.h"
+#import "AMZNLWAError.h"
 
 #import "AMZNScope.h"
 #import "AMZNProfileScope.h"
