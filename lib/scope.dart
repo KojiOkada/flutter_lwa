@@ -63,4 +63,8 @@ class ProfileScope {
   static Scope postalCode() {
     return ScopeFactory.scopeNamed("postal_code");
   }
+
+  static Scope email() {
+    return ScopeFactory.scopeNamed("profile:email");
+  }
 }
